@@ -1,5 +1,5 @@
 # ETL-in-Python-
-This Python project reads data from multiple sources including CSV, JSON, and XML files, transforms the data, and writes the combined data of all files to a target CSV file. It also generates a log file with timestamps to track the process.
+This Python script reads data from multiple sources including CSV, JSON, and XML files, transforms the data, and writes the combined data of all files to a target CSV file. It also generates a log file with timestamps to track the process.
 
 ## Tools used and Packages used:
 Pycharm, Pandas, glob , xml
@@ -12,4 +12,6 @@ Pycharm, Pandas, glob , xml
 ![Screenshot of log file](https://github.com/Dipapatil/ETL-in-Python-/blob/main/log_screenshot.png)
 
 [Output CSV file with all Combined data from different sources](https://github.com/Dipapatil/ETL-in-Python-/blob/main/transformed_data.csv)
+
+I have completed this Python project which is the part of IBM Data Engineering Professional Certificate.
 
